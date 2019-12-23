@@ -4,7 +4,7 @@ Tracking and mapping common "Mandela Effect" keyword interest over time using Go
 ## Data for this exercise was downloaded from google.com/trends using a basic keyword search and downloading the resulting data set as a .csv
 
 ## Datasets
-      Berenstain vs Berestein vs Bernstein Bears keywords
+      Berenstain vs Berenstein vs Bernstein Bears keywords
       Shazaam vs Kazaam keywords
       Sinbad vs Genie keywords
       Mandela Effect Keyword
